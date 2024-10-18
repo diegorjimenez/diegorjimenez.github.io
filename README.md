@@ -1,8 +1,5 @@
 # diegorjimenez.github.io
 
-## Hobbies
-# being from miami
-
 ## EDUCATION
 ### Rice University Houston, Texas
 #### Master of Engineering in Engineering Management and Leadership Expected December 2025
